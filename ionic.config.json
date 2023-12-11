@@ -1,0 +1,7 @@
+{
+  "name": "mini-manga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

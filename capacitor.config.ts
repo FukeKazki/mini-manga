@@ -5,7 +5,9 @@ const config: CapacitorConfig = {
   appName: 'mini-manga',
   webDir: 'dist',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    url: 'http://192.168.11.18:5173/',
+    "cleartext": true
   }
 };
 
